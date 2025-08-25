@@ -1,4 +1,4 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=AlonVDev&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygh.kolioaris.xyz/?username=AlonVDev&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlonVDev&show_icons=true&theme=radical)
 
